@@ -19,15 +19,16 @@
   <!-- mail,facebook,insta icons-->
 
   <div  class=" icons" style="float: right;">
+
   <a href="mailto:info@dylandavies.co.uk"><img src="mail.webp" width="41" height="41" alt="email us"></a> 
     <a href="https://www.instagram.com/dylandaviesea" target="_blank" rel="nofollow"><img src="insta.webp" width="41" height="41" alt="Instagram"></a> <a href="https://www.facebook.com/DylanDaviesEA/" target="_blank" rel="nofollow"><img src="facebook.webp" width="41" height="41" alt="Facebook"></a>
                 
-   </div>
-   <!-- buttons (client login,contact branch)-->
+</div>
+<!-- buttons (client login,contact branch)-->
   <div class="div">
     <a href="https://www.dylandavies.co.uk/"><img src="logo3.png" width="150" class="logo img-responsive"
         alt="Dylan Davies"></a>
-    <a target="_blank" href="./clinet login.html"><button class="headerbtn1">CLINET LOGIN</button> </a>
+    <a target="_blank" href="./clinet login.html"><button class="headerbtn1">CLIENT LOGIN</button> </a>
     <button class="headerbtn2">CONTACT BRANCH</button>
     
 
@@ -51,7 +52,10 @@
   <li><a class="dropdown-item" href="#">Sellers Information</a></li>
                 <li><a class="dropdown-item" href="#">Enhanced Market</a></li>
 
-  </ul>
+
+
+
+   </ul>
 
   <li class="nav-item dropdown">
               <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown"
@@ -60,14 +64,14 @@
               </a>
               <ul class="dropdown-menu" style="background-color:#215009de; color:white text-color white">
 
-   <li><a class="dropdown-item" href="#">Properties For Sale</a></li>
-                <li><a class="dropdown-item" href="#">Buyers Information</a></li>
+  <li><a class="dropdown-item" href="#">Properties For Sale</a></li>
+      <li><a class="dropdown-item" href="#">Buyers Information</a></li>
                 <li><a class="dropdown-item" href="#">Saved Properties</a></li>
 
 
 
 
-  </ul>
+ </ul>
 
   <li class="nav-item">
               <a class="nav-link" href="#">Landlords</a>
@@ -84,15 +88,25 @@
                 <li><a class="dropdown-item" href="#">Saved Properties</a></li>
                 <a class="dropdown-item" href="#">Tenant Login</a>
             </li>
-</ul>
 
-<ul class="dropdown-menu">
 
-  <li><a class="dropdown-item" href="#">Exchange</a></li>
+
+
+  </ul>
+
+
+
+  <ul class="dropdown-menu">
+
+   <li><a class="dropdown-item" href="#">Exchange</a></li>
             <li><a class="dropdown-item" href="#">Rate Us</a></li>
             <li><a class="dropdown-item" href="#">Write for Us❤️</a></li>
-          </ul>
-          <li class="nav-item">
+
+
+
+  </ul>
+
+  <li class="nav-item">
             <a class="nav-link" href="#">New Homes</a>
           </li>
           <li class="nav-item">
@@ -104,8 +118,10 @@
           <li class="nav-item">
             <a class="nav-link" href="#">Contact</a>
           </li>
-          </li>
-          </ul>
+
+   </li>
+
+</ul>
           <button class="navbtn1"> BOOK A VALUATION</button>
           <a href="./register.html"><button class="navbtn2">REGISTER</button></a>
         </div>
@@ -113,8 +129,8 @@
     </nav>
     <!-- carousel-->
     
-  <div id="carouselExampleCaptions" class="carousel slide carousel-fade">
-     <div class="carousel-indicators">
+<div id="carouselExampleCaptions" class="carousel slide carousel-fade">
+      <div class="carousel-indicators">
         <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="0" class="active"
           aria-current="true" aria-label="Slide 1"></button>
         <button type="button" data-bs-target="#carouselExampleCaptions" data-bs-slide-to="1"
@@ -163,9 +179,9 @@
     </div>
     <!-- grid-->
 
-  <div class="grid text-center  "  >
+<div class="grid text-center  "  >
       
-   <div class="row" >
+  <div class="row" >
         <div class="col-6">
           
    <h4 class="h4">START YOUR <b>SEARCH!</b></h4>
@@ -316,7 +332,7 @@
             </div>
 <!-- lettings search-->
            
-  <div class="tab-pane" id="lettings-search">
+   <div class="tab-pane" id="lettings-search">
               <form action="/search/">
                 <input type="hidden" name="showstc" value="off">
                 <input type="hidden" name="showsold" value="off">
@@ -405,7 +421,7 @@
                     <div class="form-group">
                       <label for="tabbed-property_type-lettings" class="sr-only">Property Type:</label>
 
-  <select name="property_type" class="form-control styled-select"
+   <select name="property_type" class="form-control styled-select"
                         id="tabbed-property_type-lettings">
                         <option value="">Property Type</option>
                         <option value="Apartment">Apartment</option>
@@ -433,26 +449,41 @@
                   </div>
                   <div class="col-sm-6 col-md-6">
                     <button type="submit" class="btn btn-purple btn-block">Search</button>
+                   
+
+                
                   
   </div>
-    </div>   
-</form>
+                </div>
+               
+               
+  </form>
           
-</div>
+  </div>
             
- <div class=" " style="color: white;">
+            
+            
+  <div class=" " style="color: white;">
               <div class="team-banner-text">
                 
    <h2>Our success is our team...</h2>
                 <p>We’re not just your Estate Agents, we’re your neighbours too.</p>
+        
+       
   <a href="/meet-the-team/" class="arrow-link"><img src="paul.jpg" width="20" > Meet The Team</a>
               </div>
             </div>
- </div>
+
          
-  </div>
+</div>
+         
+   </div>
         <!-- col 2 content-->
-        <div class="col">
+        
+        
+        
+        
+  <div class="col">
           <h1>Welcome to Dylan Davies</h1>
           <p>We’ve helped hundreds of people like you map out their future in this beautiful area.</p>
           <p>We’ve helped <strong style="color: hsla(96, 85%, 34%, 0.919) ;">first time buyers</strong> hop on the
@@ -468,13 +499,19 @@
           <p>We offer estate and letting agent services across Tonteg, Church Village, Llantwit Fardre, Efail Isaf,
             Talbot Green as well as Pontypridd and the wider surrounding areas.</p>
           <p>Whatever aspect of the property market you need, it’s fair to say <strong
-              style="color: hsla(96, 85%, 34%, 0.919) ">Dylan Davies</strong> are the experts you need by your side.</p
-        </div>
-         <footer>
+              style="color: hsla(96, 85%, 34%, 0.919) ">Dylan Davies</strong> are the experts you need by your side.</p>
+
+</div>
+        
+      
+    
+<footer>
           <img  class="footimg"src="banner.png" alt="banner">
-         <div class="footer2">
+          
+   <div class="footer2">
           <div class="footer1">
-            <p class="footerpara">We have <i style="color:red ;">sold &amp; let</i> properties <br>throughout the Pontypridd and <br>surrounding area.</p>
+           
+  <p class="footerpara">We have <i style="color:red ;">sold &amp; let</i> properties <br>throughout the Pontypridd and <br>surrounding area.</p>
        <div class="buttons">  
          <button class="footerbtn1">VIEW SOLD</button>
             <button class="footerbtn2">VIEW LET</button>
@@ -482,12 +519,16 @@
           </div>
         </div>
         </footer> 
-        <div id="imgg">
+       
+         
+
+<div id="imgg">
           <p class="lead">"...a bustling, traditional <br>market town, a place of <br>curiosities and characters..."</p>
           <p class="lead1">Get to know our beautiful and historic area</p>
           <button class="a">VIEW AREA GUIDES</button>
+       
       <!-- news-->
-          <div class="row">
+  <div class="row">
             <div class="col">
               <div class="card ">
                <img src="mirror.webp" alt="" width="100%" height="200px">
@@ -498,7 +539,8 @@
                       <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
                       <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
                     </div>
-                  </div>
+                   
+  </div>
                 </div>
               </div>
             </div>
@@ -516,7 +558,8 @@
                       <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
                       <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
                     </div>
-                  </div>
+                 
+   </div>
                 </div>
               </div>
             </div>
@@ -531,15 +574,19 @@
                       <button type="button" class="btn btn-sm btn-outline-secondary">View</button>
                       <button type="button" class="btn btn-sm btn-outline-secondary">Edit</button>
                     </div>
-                  </div>
-                </div>
-              </div>
+                    
+                    
+  </div>
+                  
+  </div>
+          
+  </div>
               <button class="b">VIEW ALL NEWS</button>
             </div>
             <hr>
             <!-- footer-->
 
-  <footer>
+   <footer>
               <div id="container3">
                 <p>Follow us
                   <a href="https://www.facebook.com/DylanDaviesEA/" target="_blank" rel="nofollow" ><img
@@ -554,19 +601,23 @@
    <hr>
                       
           
-  </div>
+   </div>
                <ul type="none">
                    <li style="cursor:pointer;">More about us</li>
                    <li style="cursor:pointer;"> Contact us
                        </li>
                        <li style="cursor:pointer;">Investor relations
-  </li>
-<ahref="https://www.google.com/maps/place/Dylan+Davies+Estate+%26+Letting+Agents+in+Pontypridd/@51.5680751,-3.3152691,17z/data=!3m1!4b1!4m6!3m5!1s0x486e175f005194c5:0x9eb99bc17bc6c6a4!8m2!3d51.5680718!4d-3.3126942!16s%2Fg%2F1hhhg1rg5?entry=ttu"target="_blank"><li style="cursor:pointer;"> Locations</li></a> 
-  </ul>
-   </footer>
-  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
-   integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
-  crossorigin="anonymous"></script>
+                         </li>
+                        
+  <a href="https://www.google.com/maps/place/Dylan+Davies+Estate+%26+Letting+Agents+in+Pontypridd/@51.5680751,-3.3152691,17z/data=!3m1!4b1!4m6!3m5!1s0x486e175f005194c5:0x9eb99bc17bc6c6a4!8m2!3d51.5680718!4d-3.3126942!16s%2Fg%2F1hhhg1rg5?entry=ttu"target="_blank"><li style="cursor:pointer;"> Locations</li></a> 
+               </ul>
+            </footer>
+            
+           
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+          integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+          crossorigin="anonymous"></script>
+        
 </body>
 
 
